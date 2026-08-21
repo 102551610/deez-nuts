@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\joshb\\Documents\\GitHub\\deez-nuts\\CustomCAppSetup\\CustomCAppSetup.wixproj": {}
+  },
+  "projects": {
+    "C:\\Users\\joshb\\Documents\\GitHub\\deez-nuts\\CustomCAppSetup\\CustomCAppSetup.wixproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\joshb\\Documents\\GitHub\\deez-nuts\\CustomCAppSetup\\CustomCAppSetup.wixproj",
+        "projectName": "CustomCAppSetup",
+        "projectPath": "C:\\Users\\joshb\\Documents\\GitHub\\deez-nuts\\CustomCAppSetup\\CustomCAppSetup.wixproj",
+        "packagesPath": "C:\\Users\\joshb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joshb\\Documents\\GitHub\\deez-nuts\\CustomCAppSetup\\obj\\",
+        "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joshb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "native"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "native": {
+            "framework": "native",
+            "targetAlias": "native",
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "native": {
+          "framework": "native",
+          "targetAlias": "native"
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

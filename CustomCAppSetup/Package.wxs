@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
+
+	<Package Name="Custom C Application Setup"
+			 Language="1033"
+			 Version="1.0.0.0"
+			 Manufacturer="JoshBakanursky"
+			 UpgradeCode="{B038F7FD-0F36-467D-9A88-03159B9A1C28}">
+
+		<MajorUpgrade DowngradeErrorMessage="A newer version of this C application is already installed." />
+
+		<MediaTemplate EmbedCab="yes" />
+
+		<DirectoryRef Id="INSTALLFOLDER">
+			<Component Id="NativeExecutableComponent" Guid="{43CE9AB3-CA52-4B3E-B4E2-A4F94E61C2AF}">
+
+				<File Id="CustomCAppEXE"
+					  Source="C:\Users\joshb\Documents\GitHub\deez-nuts\deez-nuts.exe"
+					  KeyPath="yes" />
+
+			</Component>
+		</DirectoryRef>
+
+		<Feature Id="MainProductFeature" Title="CustomCAppSetup" Level="1">
+			<ComponentRef Id="NativeExecutableComponent" />
+		</Feature>
+
+	</Package>
+</Wix>

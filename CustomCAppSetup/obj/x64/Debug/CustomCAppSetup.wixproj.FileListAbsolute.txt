@@ -1,0 +1,6 @@
+C:\Users\joshb\Documents\GitHub\deez-nuts\CustomCAppSetup\obj\x64\Debug\CustomCAppSetup.wixproj.CoreCompileInputs.cache
+C:\Users\joshb\Documents\GitHub\deez-nuts\CustomCAppSetup\bin\x64\Debug\en-US\CustomCAppSetup.msi
+C:\Users\joshb\Documents\GitHub\deez-nuts\CustomCAppSetup\bin\x64\Debug\en-US\CustomCAppSetup.wixpdb
+C:\Users\joshb\Documents\GitHub\deez-nuts\CustomCAppSetup\obj\x64\Debug\en-US\CustomCAppSetup.msi
+C:\Users\joshb\Documents\GitHub\deez-nuts\CustomCAppSetup\obj\x64\Debug\en-US\CustomCAppSetup.wixpdb
+C:\Users\joshb\Documents\GitHub\deez-nuts\CustomCAppSetup\obj\x64\Debug\CustomCAppSetup.wixproj.BindTracking-en-US.txt

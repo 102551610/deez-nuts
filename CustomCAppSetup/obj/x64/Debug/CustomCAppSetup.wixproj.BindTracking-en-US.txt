@@ -1,0 +1,4 @@
+BuiltPdbOutput	C:\Users\joshb\Documents\GitHub\deez-nuts\CustomCAppSetup\obj\x64\Debug\en-US\CustomCAppSetup.wixpdb
+BuiltTargetOutput	C:\Users\joshb\Documents\GitHub\deez-nuts\CustomCAppSetup\obj\x64\Debug\en-US\CustomCAppSetup.msi
+Input	C:\Users\joshb\Documents\GitHub\deez-nuts\deez-nuts.exe
+Intermediate	C:\Users\joshb\Documents\GitHub\deez-nuts\CustomCAppSetup\obj\x64\Debug\en-US\#cab1.cab
